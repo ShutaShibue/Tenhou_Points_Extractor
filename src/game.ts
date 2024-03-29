@@ -18,7 +18,6 @@ export class Game{
     private gameStart(l: string): void{
         this.name = new Array()
         this.sc = new Array(3).fill(350)
-        this.diff = new Array(3).fill(1)
         this.tmpData = []
     }
     private setName(l:string):void{
@@ -36,10 +35,12 @@ export class Game{
         const honba = l.match(/\d本場/g)![0]
         const honbaID = honba.split('')[0]
         
-        this.calcDiff()
+        const kyotaku = l.match(/リーチ\d/g)![0]
+        const kyotakuID = kyotaku.split("")[3]
+
         const c = this.findClassifier()
         if (c === -1) throw new Error("Unexpected classifier");
-        this.tmpData.push([kyokuID, honbaID, ...this.sc, ...this.diff, c]) // before kyoku starts
+        this.tmpData.push([kyokuID, honbaID, kyotakuID, ...this.sc, c]) // before kyoku starts
 
         const data = l.replace(/.+?\d\)\s/g, '').split(" ")
         while (data.length > 1) {
@@ -75,10 +76,5 @@ export class Game{
         if(i == top) return 0
         if(i == las) return 2
         return 1
-    }
-    private calcDiff(): void{
-        this.diff[0] = this.sc[0] - this.sc[1]
-        this.diff[1] = this.sc[1] - this.sc[2]
-        this.diff[2] = this.sc[2] - this.sc[0]
     }
 }
