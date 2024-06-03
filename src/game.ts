@@ -40,7 +40,8 @@ export class Game{
 
         const c = this.findClassifier()
         if (c === -1) throw new Error("Unexpected classifier");
-        this.tmpData.push([kyokuID, honbaID, kyotakuID, ...this.sc, c]) // before kyoku starts
+        this.tmpData.push([kyokuID, honbaID, kyotakuID, ...this.sc, parseInt(kyotakuID)*10 + this.sc.reduce(function(s, e){
+            return s + e}, 0), c]) // before kyoku starts
 
         const data = l.replace(/.+?\d\)\s/g, '').split(" ")
         while (data.length > 1) {

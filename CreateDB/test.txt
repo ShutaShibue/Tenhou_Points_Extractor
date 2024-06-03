@@ -1,0 +1,153 @@
+===== 天鳳 L0000 鳳３南喰赤 開始 2021/12/31 http://tenhou.net/0/?log=2021123123gm-00b9-0000-8f7027b6&tw=0 =====
+  持点35000 [1]大和桜/八段/女 R2321 [2]百瀬潤/八段/男 R2225 [3]蒔絵/七段/女 R2118
+  東1局 0本場(リーチ0)  百瀬潤 -12000 蒔絵 12000
+    跳満ロン 七対子2 ドラ4
+    [1東]1m9m9m1p4p5p7p9p3s7s南北発
+    [2南]2p2p8p1s1s2s3s5S6s9s東白中
+    [3西]9m9m3p1s2s2s8s8s9s東南発中
+    [表ドラ]6p [裏ドラ]
+    * 1G3s 1抜き北 1G4s 1d南 2G4p 2d東 3G7p 3d南 1G中 1d1m 2G6p 2d白 3G9s 3d東
+    * 1G4s 1d1p 2G1p 2d9s 3G9p 3d3p 1G3p 1d中 2G9p 2d1p 3G東 3D東 1G3p 1d発
+    * 2G発 2D発 3G西 3d発 1G白 1D白 2G東 2D東 3G4s 3D4s 1G7s 1d9p 2G5s 2d1s
+    * 3G北 3抜き北 3G1m 3d西 1G6s 1d3p 2G8p 2D8p 3G北 3抜き北 3G7p 3d1s 1G西 1D西
+    * 2G3p 2d9p 3G9s 3D9s 1G7s 1d6s 2G8p 2d2p 3G5p 3d9p 1G西 1D西 2G中 2d5s
+    * 3G7p 3D7p 1G9p 1D9p 2G5P 2d中 3G1m 3d5p 1G1s 1D1s 2G4p 2R 2d中 3A
+
+  東2局 0本場(リーチ0)  大和桜 7200 百瀬潤 -5200
+    40符5200点3飜ロン 立直1 ドラ2 裏ドラ0
+    [1北]1m2p3p3p4p7p8p9p1s東北発発
+    [2東]9m1p5P7p8p8p3s4s4s8s西西白
+    [3南]9m1p2p3p5p8p9p1s2s6s南北中
+    [表ドラ]1s [裏ドラ]中
+    * 2G5S 2d9m 3G6s 3抜き北 3G2s 3d9m 1G2s 1抜き北 1G1s 1d1m 2G8s 2d1p 3G3p 3d中
+    * 1G3s 1d東 2G9m 2D9m 3G1m 3D1m 1G白 1D白 2G9m 2D9m 3G西 3D西 1G5s 1d1s
+    * 2G6p 2d白 3G東 3d1s 1G3s 1D3s 2G5s 2d西 3G4p 3d東 1G6s 1R 1d3p 2G7s
+    * 2d西 3G9s 3d南 1G白 1D白 2G9s 2R 2d8s 3G1p 3D1p 1G4p 1D4p 2G7s 2D7s
+    * 1A
+
+  東3局 0本場(リーチ0)  大和桜 8700 百瀬潤 -7700
+    30符7700点4飜ロン 断幺九1 ドラ1 赤ドラ2
+    [1西]3p3p5p6p7p1s2s2s4s5s7s9s西
+    [2北]1m1p1p2p6p6p8p9p7s9s南西白
+    [3東]2p2p4p4p5p7p3s4s8s9s東南中
+    [表ドラ]5s [裏ドラ]
+    * 3G西 3d南 1G白 1d西 2G5s 2d1m 3G1s 3d西 1G6s 1d白 2G4s 2d西 3G中 3d1s
+    * 1G7p 1D7p 2G3p 2d白 3G白 3D白 1G9m 1D9m 2G7s 2d1p 3G5p 3d7p 1G4p 1d1s
+    * 2G発 2D発 3G2s 3d8s 1G発 1D発 2G9p 2d南 3G4p 3d9s 1G1s 1D1s 2G6s 2d8p
+    * 3G6p 3d東 1G7s 1d3p 2G東 2D東 3G北 3抜き北 3G北 3抜き北 3G2s 3d4p 1G4s 1d9s
+    * 2G南 2D南 3G9p 3D9p 1G東 1D東 2G9p 2R 2d7s 1N7s7s 1d4s 2G9m 2D9m 3G8s
+    * 3d4s 1G6s 1D6s 2G中 2D中 3G3s 3d6p 1G5S 1d5s 2G5P 2D5P 1A
+
+  南1局 0本場(リーチ0)  大和桜 18000 百瀬潤 -18000
+    跳満ロン 役牌 白1 自風 東1 ドラ2 赤ドラ2
+    [1東]3p4p8p9p1s2s4s5S7s西北北中
+    [2南]1m1m1p6p7p7p8p2s3s9s西白中
+    [3西]1m2p2p2p4p5p3s4s5s5s6s西発
+    [表ドラ]8s [裏ドラ]
+    * 1G東 1抜き北 1G東 1抜き北 1G白 1d西 2G9s 2d西 3G7s 3d西 1G9m 1D9m 2G9m 2D9m
+    * 3G7p 3d1m 1G5P 1d中 2G7p 2d1p 3G2s 3d発 1G白 1d7s 2G2s 2d白 1N白白 1d2s
+    * 2G1m 2d中 3G4s 3d7p 1G1s 1d8p 2G東 2D東 1N東東 1d9p 2G6s 2D6s 1A
+
+  ---- 試合結果 ----
+  1位 大和桜 +63
+  2位 蒔絵 +7
+  3位 百瀬潤 -70
+----- 終了 -----
+
+===== 天鳳 L0000 鳳３南喰赤 開始 2021/12/31 http://tenhou.net/0/?log=2021123123gm-00b9-0000-d3f8b138&tw=0 =====
+  持点35000 [1]けそみそ/八段/男 R2227 [2]tomi1029/七段/男 R2072 [3]ふか/七段/男 R2205
+  東1局 0本場(リーチ0)  tomi1029 9000 ふか -8000
+    満貫ロン 立直1 ドラ1 裏ドラ2
+    [1東]9m9m3p6p6s7s7s9s東西西北中
+    [2南]1p4p4p5p8p9p3s5s6s9s南白中
+    [3西]1m9m2p4p5p6p7p2s4s7s南白中
+    [表ドラ]9s [裏ドラ]8p
+    * 1G1m 1抜き北 1G5p 1d1m 2G8s 2d9s 3G5P 3d1m 1G南 1D南 2G8s 2d1p 3G発 3d9m
+    * 1G東 1d3p 2G4s 2d4p 3G中 3d南 1G1m 1D1m 2G9p 2d中 3G北 3抜き北 3G3s 3d発
+    * 1G東 1d中 3N中中 3d白 1G白 1D白 2G1s 2d白 3G1p 3D1p 1G2p 1D2p 2G6p 2d南
+    * 3G東 3D東 1G4s 1D4s 2G9s 2d8p 3G1s 3d7s 1N7s7s 1d6s 2G2s 2R 2d9s 3G8s
+    * 3d2p 1G白 1d9s 2G4p 2D4p 3G1s 3d8s 2A
+
+  東2局 0本場(リーチ0)  けそみそ 12000 tomi1029 -12000
+    跳満ロン 断幺九1 ドラ5
+    [1北]9m5p6p6p6p8p3s3s4s6s北北白
+    [2東]2p4p5p9p2s7s9s南南西白白中
+    [3南]1m2p3p4p7p1s4s6s東東白発中
+    [表ドラ]5p [裏ドラ]
+    * 2G北 2抜き北 2G5s 2d西 3G7s 3d1m 1G8p 1抜き北 1G7p 1抜き北 1G8p 1d9m 2G9s 2d9p
+    * 3G1m 3D1m 1G4s 1d白 2N白白 2d2p 3G9p 3d1s 1G西 1D西 2G1m 2D1m 3G4p 3d白
+    * 1G9p 1D9p 2G5s 2d2s 3G3p 3d発 1G中 1d6s 2G1s 2D1s 3G6s 3d中 1G8s 1D8s
+    * 2G2p 2D2p 3G3s 3d7p 1G2s 1d中 2G9m 2D9m 3G1s 3D1s 1G東 1D東 3N東東 3d7s
+    * 1G3p 1D3p 2G発 2D発 3G6p 3d9p 1G4s 1D4s 2G東 2D東 3G1p 3D1p 1G発 1D発
+    * 2G5P 2d中 3G8s 3D8s 1G中 1D中 2G1p 2D1p 3G8s 3D8s 1G1s 1D1s 2G2p 2d7s
+    * 3G9p 3D9p 1G9s 1D9s 2N9s9s 2d5s 1A
+
+  東3局 0本場(リーチ0)  けそみそ 4000 tomi1029 -1000 ふか -2000
+    30符3000点3飜ツモ 立直1 門前清自摸和1 裏ドラ1
+    [1西]1p3p3p3p3p4p7p1s2s4s西西中
+    [2北]9m1p2p2p2p4p6p9p2s2s8s西中
+    [3東]1m9m5s5s6s8s9s東北白発発中
+    [表ドラ]北 [裏ドラ]1s
+    * 3G2s 3抜き北 3G東 3d1m 1G9m 1D9m 2G1m 2D1m 3G9p 3d9m 1G3s 1d中 2G8p 2d中
+    * 3G7p 3d中 1G6p 1d1p 2G8p 2d8s 3G7s 3d白 1G9s 1D9s 2G4p 2d西 3G発 3d2s
+    * 1G7p 1d1s 2G西 2D西 3G北 3抜き北 3G9s 3d7p 1G9m 1d7p 2G6s 2D6s 3G東 3d9p
+    * 1G5p 1R 1d9m 2G5s 2d1p 3G6p 3D6p 1G6p 1D6p 2G3s 2d9m 3G中 3D中 1G4s
+    * 1D4s 2G南 2d9p 3G白 3D白 1G5p 1A
+
+  南1局 0本場(リーチ0)  tomi1029 2300 ふか -1300
+    40符1300点1飜ロン 立直1 裏ドラ0
+    [1東]1m1m4p6p9p1s1s2s4s南西発発
+    [2南]4p6p7p7p8p1s6s7s8s東西白発
+    [3西]1p4p7p9p1s3s4s5S7s7s西北発
+    [表ドラ]9m [裏ドラ]南
+    * 1G3s 1d9p 2G中 2d東 3G4p 3抜き北 3G9m 3D9m 1G北 1抜き北 1G1m 1d西 2G4s 2d中
+    * 3G6p 3d1p 1G8s 1D8s 2G9m 2d1s 3G1p 3D1p 1G南 1d6p 2G5s 2d発 1N発発 1d4p
+    * 2G白 2d西 3G9s 3d発 1G3p 1D3p 2G2s 2D2s 3G8s 3d西 1G東 1D東 2G5p 2d9m
+    * 3G2s 3d7s 1G9m 1D9m 2G3p 2R 2d7p 3G3p 3d9p 1G中 1D中 2G4s 2D4s 3G9s
+    * 3D9s 2A
+
+  南2局 0本場(リーチ0)  tomi1029 7800 ふか -5800
+    30符5800点3飜ロン 立直1 平和1 ドラ1 裏ドラ0
+    [1北]1m9m3p6p9p1s2s7s東南北白白
+    [2東]1m9m3p5p3s5s7s7s南北発発中
+    [3南]2p4p6p7p7p8p4s4s6s6s6s8s9s
+    [表ドラ]7s [裏ドラ]8s
+    * 2G3p 2抜き北 2G西 2d1m 3G6s 3d9s 1G1p 1抜き北 1G1p 1d東 2G3s 2d西 3G発 3D発
+    * 1G5s 1d9p 2G8s 2d南 3G9m 3D9m 1G西 1d9m 2G7p 2d9m 3G6p 3d4p 1G7p 1d1m
+    * 2G2s 2d中 3G西 3D西 1G5S 1d西 2G4p 2d7p 3G5p 3R 3d2p 1G中 1D中 2G4s
+    * 2d発 3G南 3D南 1G3s 1d南 2G中 2d発 3G9p 3D9p 1G5P 1d1p 2G2p 2d中 3G北
+    * 3抜き北 3G3p 3D3p 1G9m 1D9m 2G1s 2R 2d8s 3G9s 3D9s 1G1p 1d白 2G8s 2D8s
+    * 3G3s 3D3s 1G8p 1d白 2G白 2D白 3G1p 3D1p 2A
+
+  南2局 1本場(リーチ0)  けそみそ 13200 tomi1029 -8100 ふか -4100
+    倍満ツモ 立直1 嶺上開花1 門前清自摸和1 ドラ3 赤ドラ1 裏ドラ1
+    [1北]3p3p5p5p9p2s3s4s5s南北発中
+    [2東]1m1m1p6p6p1s3s4s6s7s東西白
+    [3南]1m2p2p4p7p1s5s5s7s8s西発中
+    [表ドラ]白9m [裏ドラ]中5S
+    * 2G1p 2d西 3G8s 3d西 1G7p 1抜き北 1G東 1D東 2G2s 2d白 3G4p 3d1m 1G2p 1d南
+    * 2G発 2d東 3G白 3D白 1G9p 1d発 2G南 2D南 3G南 3D南 1G9m 1D9m 2G西 2D西
+    * 3G8p 3d1s 1G北 1抜き北 1G北 1抜き北 1G5p 1d中 2G北 2抜き北 2G2s 2d発 3G8p 3d7p
+    * 1G9p 1d7p 2G8p 2D8p 3G4p 3d中 1G4s 1R 1d2p 2G東 2D東 3G9m 3D9m 1G中
+    * 1D中 2G9s 2d1m 3G9s 3d発 1G2p 1D2p 2G8s 2d1m 3G4s 3d2p 1G5P 1K5P 1G6s
+    * 1A
+
+  南3局 0本場(リーチ0)  tomi1029 12000 ふか -12000
+    跳満ロン 役牌 發1 混一色3 ドラ2
+    [1西]1m9m2p3p8p1s1s2s4s6s東南中
+    [2北]1p2p7p3s3s8s8s8s9s北発発中
+    [3東]1m1m1p8p9p9p4s8s東西北白白
+    [表ドラ]東4p [裏ドラ]
+    * 3G2p 3抜き北 3G5p 3d西 1G9m 1d東 2G1s 2抜き北 2G9s 2d7p 3G中 3d東 1G5s 1d1m
+    * 3N1m1m 3d8p 1G8p 1d2s 2G5p 2D5p 3G6s 3d中 1G8p 1d中 2G9p 2D9p 3N9p9p 3d5p
+    * 1G1s 1d9m 2G9m 2D9m 3G5S 3d8s 1G5s 1d5s 2G4s 2d中 3G3s 3d1p 1G2p 1d9m
+    * 2G6s 2d1p 3G南 3d2p 1G4p 1d2p 2G発 2d2p 3G6s 3d南 1G9s 1d南 2G発 2K発
+    * 2G西 2D西 3G南 3D南 1G北 1抜き北 1G5P 1d2p 2G7s 2d1s 3G5s 3D5s 1G4s 1d1s
+    * 2G北 2抜き北 2G2s 2d3s 3G5p 3D5p 1G6p 1d1s 2G9p 2D9p 3G4p 3D4p 1G4p 1D4p
+    * 2G3p 2D3p 3G9s 3D9s 2A
+
+  ---- 試合結果 ----
+  1位 けそみそ +57
+  2位 tomi1029 +2
+  3位 ふか -59
+----- 終了 -----

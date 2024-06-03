@@ -1,0 +1,14 @@
+===== 天鳳 L0000 鳳３南喰赤 開始 2021/12/31 http://tenhou.net/0/?log=2021123123gm-00b9-0000-8f7027b6&tw=0 =====
+  持点35000 [1]大和桜/八段/女 R2321 [2]百瀬潤/八段/男 R2225 [3]蒔絵/七段/女 R2118
+  東1局 0本場(リーチ0)  百瀬潤 -12000 蒔絵 12000
+    跳満ロン 七対子2 ドラ4
+    [1東]1m9m9m1p4p5p7p9p3s7s南北発
+    [2南]2p2p8p1s1s2s3s5S6s9s東白中
+    [3西]9m9m3p1s2s2s8s8s9s東南発中
+    [表ドラ]6p [裏ドラ]
+    * 1G3s 1抜き北 1G4s 1d南 2G4p 2d東 3G7p 3d南 1G中 1d1m 2G6p 2d白 3G9s 3d東
+    * 1G4s 1d1p 2G1p 2d9s 3G9p 3d3p 1G3p 1d中 2G9p 2d1p 3G東 3D東 1G3p 1d発
+    * 2G発 2D発 3G西 3d発 1G白 1D白 2G東 2D東 3G4s 3D4s 1G7s 1d9p 2G5s 2d1s
+    * 3G北 3抜き北 3G1m 3d西 1G6s 1d3p 2G8p 2D8p 3G北 3抜き北 3G7p 3d1s 1G西 1D西
+    * 2G3p 2d9p 3G9s 3D9s 1G7s 1d6s 2G8p 2d2p 3G5p 3d9p 1G西 1D西 2G中 2d5s
+    * 3G7p 3D7p 1G9p 1D9p 2G5P 2d中 3G1m 3d5p 1G1s 1D1s 2G4p 2R 2d中 3A
